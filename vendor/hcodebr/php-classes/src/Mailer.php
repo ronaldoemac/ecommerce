@@ -6,7 +6,7 @@ use Rain\Tpl;
 
 class Mailer {
 
-	const USERNAME = "adm.desenv@server.com";
+	const USERNAME = "roncode@server.com";
 	const PASSWORD = "admin";
 	const NAME_FROM = "Desenv Ron Code";
 
